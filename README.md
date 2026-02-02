@@ -35,5 +35,5 @@ Pro spuštění hry je nutné mít nainstalovaný Python.
 Stáhni si zdrojový kód k sobě do počítače:
 
 ```bash
-git clone  [https://github.com/marekwaldhans-IVT/3A---IVT2025](https://github.com/mwaldhans/3A---IVT2025.git)
+git clone  https://github.com/marekwaldhans-IVT/3A---IVT2025
 cd had-3a
