@@ -1,6 +1,10 @@
 import pygame
 
+<<<<<<< Updated upstream
 # Inicializace Pygame 2025
+=======
+# Inicializace Pygame 2026
+>>>>>>> Stashed changes
 pygame.init()
 
 # Inicializace hodin pro rizeni snimkovani
