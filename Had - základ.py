@@ -1,6 +1,6 @@
 import pygame
 
-# Inicializace Pygame 20256
+# Inicializace Pygame 20
 pygame.init()
 
 # Inicializace hodin pro rizeni snimkovani
