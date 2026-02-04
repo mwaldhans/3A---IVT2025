@@ -51,3 +51,5 @@ My jsme Nela Urvalkova
 Mam Infinite money glitch
 
 Uz nechcu byt nela urvalkova
+
+ Zidrej Snorer
