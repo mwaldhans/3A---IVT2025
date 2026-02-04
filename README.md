@@ -1,4 +1,4 @@
-# 🐍 Had 3A 2025 (Snake Game)
+# 🐍 Had 3A 2025-2026 (Snake Game)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-yellow)
