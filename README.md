@@ -49,3 +49,5 @@ My jsme Barbora Ostrizkova
 My jsme Nela Urvalkova
 
 Mam Infinite money glitch
+
+Uz nechcu byt nela urvalkova
