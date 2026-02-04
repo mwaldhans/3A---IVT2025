@@ -53,3 +53,5 @@ Mam Infinite money glitch
 Uz nechcu byt nela urvalkova
 
  Zidrej Snorer
+
+JA JSEM GAY JSEM GAY JSEM TEPLEEEEEEJ
