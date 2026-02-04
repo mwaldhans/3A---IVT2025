@@ -47,3 +47,5 @@ Bozsky alkohol Gambrinus Inhaluj Tlakem
 My jsme Barbora Ostrizkova
 
 My jsme Nela Urvalkova
+
+Mam Infinite money glitch
