@@ -4,10 +4,10 @@ import pygame
 <<<<<<< Updated upstream
 # Inicializace Pygame 20
 =======
-# Inicializace Pygame 2026
+ 
 >>>>>>> Stashed changes
 =======
-# Inicializace Pygame 2023
+# Inicializace Pygame 2023  2000
 >>>>>>> 16889f64f7e85f04fbee52d0d61fa47dc4f6f6b9
 pygame.init()
 

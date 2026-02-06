@@ -38,3 +38,20 @@ Stáhni si zdrojový kód k sobě do počítače:
 git clone  https://github.com/marekwaldhans-IVT/3A---IVT2025
 cd had-3a
  AHoj
+
+bronty
+
+2233
+
+Bozsky alkohol Gambrinus Inhaluj Tlakem 
+My jsme Barbora Ostrizkova
+
+My jsme Nela Urvalkova
+
+Mam Infinite money glitch
+
+Uz nechcu byt nela urvalkova
+
+ Zidrej Snorer
+
+JA JSEM GAY JSEM GAY JSEM TEPLEEEEEEJ
