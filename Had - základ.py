@@ -2,7 +2,7 @@ import pygame
 
 <<<<<<< HEAD
 <<<<<<< Updated upstream
-# Inicializace Pygame 20
+# Inicializace Pygame 20 2026
 =======
  
 >>>>>>> Stashed changes
